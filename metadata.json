@@ -1,0 +1,6 @@
+{
+  "name": "BV SHOP GOLA",
+  "description": "Bvshop is a premium, high-end e-commerce application featuring a comprehensive product catalog, AI product recommendations, structured categories, dynamic search, shopping cart, customizable wishlist, a secure checkout simulator, user profile & wallet, and interactive dashboards for Sellers and Admins.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
